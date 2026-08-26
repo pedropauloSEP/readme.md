@@ -38,6 +38,6 @@ Meu objetivo é continuar desenvolvendo minhas habilidades na área de tecnologi
 
 Gosto de trabalhar com tecnologia e tenho satisfação em poder **resolver problemas, melhorar processos e aprender coisas novas**. Acredito que a tecnologia tem um papel importante na transformação e evolução das empresas, e quero continuar fazendo parte dessa área.
 
----
+##
 
 ⭐ Obrigado por visitar meu perfil!
