@@ -1,67 +1,43 @@
-Olá! 👋 Eu sou Pedro Paulo Dias da Silva
+# Olá! 👋 Eu sou Pedro Paulo dias da silva.
 
-🎓 Cursando Sistemas de Informação
-💻 Analista de Suporte
-🚀 Experiência em Tecnologia da Informação
+🎓 Cursando **Sistemas de Informação**  
+💻 **Analista de Suporte**  
+🚀 3 anos de experiência na área de Tecnologia da Informação
 
-👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Sistemas de Informação e atuo como Analista de Suporte na área de Tecnologia da Informação.
+Sou estudante de **Sistemas de Informação** e atuo há 3 anos na área de **Tecnologia da Informação**, trabalhando como **Analista de Suporte**.
 
-Tenho experiência com suporte aos usuários, resolução de problemas, acompanhamento de chamados e melhoria de processos, buscando tornar as atividades mais eficientes e organizadas.
+Durante minha experiência profissional, venho atuando diretamente no suporte aos usuários, resolução de problemas e, principalmente, na **melhoria de processos**, buscando tornar as atividades do dia a dia mais eficientes e organizadas.
 
-Tenho grande interesse por tecnologia e estou constantemente desenvolvendo meus conhecimentos nas áreas de TI, desenvolvimento e análise de sistemas.
+Tenho grande interesse pela área de tecnologia e gosto de estar sempre aprendendo, buscando novos conhecimentos e oportunidades para evoluir profissionalmente.
 
-💼 Experiência
-Analista de Suporte
-Suporte técnico aos usuários;
-Identificação e resolução de problemas;
-Acompanhamento de chamados e incidentes;
-Melhoria e otimização de processos;
-Diagnóstico de problemas;
-Apoio às demandas de infraestrutura e tecnologia.
-🛠️ Stack e conhecimentos
-🔧 Suporte e TI
-Suporte técnico e atendimento aos usuários;
-Sistemas operacionais;
-Infraestrutura de TI;
-Gestão de chamados;
-Diagnóstico e resolução de problemas.
-💻 Desenvolvimento
-Lógica de programação;
-Desenvolvimento de sistemas;
-Análise de sistemas;
-Banco de dados;
-Automação de processos.
-📚 Em aprendizado
+## 💼 Experiência
 
-Estou ampliando meus conhecimentos por meio da graduação em Sistemas de Informação e de estudos complementares, buscando transformar conhecimentos teóricos em projetos e aplicações práticas.
+### Analista de Suporte
 
-Minha stack está em constante evolução conforme avanço nos estudos, projetos e experiências profissionais.
+**3 anos de experiência em Tecnologia da Informação**
 
-🎓 Formação
+- Suporte técnico aos usuários;
+- Identificação e resolução de problemas;
+- Acompanhamento de chamados e incidentes;
+- Melhoria e otimização de processos;
+- Busca contínua por soluções mais eficientes;
+- Apoio às demandas relacionadas à infraestrutura e tecnologia.
 
-Sistemas de Informação — Cursando
+## 🎓 Formação
 
-Busco complementar minha experiência profissional em TI com conhecimentos acadêmicos e práticos em tecnologia e desenvolvimento de sistemas.
+**Sistemas de Informação**  
+*Cursando*
 
-🚀 Interesses
+## 🚀 Objetivo
 
-Tenho interesse em desenvolver minhas habilidades em:
+Meu objetivo é continuar desenvolvendo minhas habilidades na área de tecnologia, adquirindo novos conhecimentos e participando de projetos que me permitam crescer profissionalmente e contribuir com soluções eficientes.
 
-Desenvolvimento de software e Web;
-Backend;
-Banco de dados;
-Análise de sistemas;
-Automação de processos;
-Suporte e infraestrutura;
-Soluções tecnológicas para otimização de processos.
-🎯 Objetivo
+## ❤️ Sobre tecnologia
 
-Continuar evoluindo profissionalmente na área de tecnologia, adquirir novos conhecimentos e participar de projetos que me permitam aprender, desenvolver soluções e contribuir para a melhoria dos processos.
+Gosto de trabalhar com tecnologia e tenho satisfação em poder **resolver problemas, melhorar processos e aprender coisas novas**. Acredito que a tecnologia tem um papel importante na transformação e evolução das empresas, e quero continuar fazendo parte dessa área.
 
-❤️ Sobre tecnologia
-
-Gosto de resolver problemas, melhorar processos e aprender coisas novas. Acredito que a tecnologia tem um papel fundamental na transformação das empresas e quero contribuir para esse processo, unindo minha experiência profissional aos conhecimentos adquiridos em Sistemas de Informação.
+##
 
 ⭐ Obrigado por visitar meu perfil!
